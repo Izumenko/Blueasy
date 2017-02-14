@@ -9,6 +9,16 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
+	
+	.header-wrapper .nav-wrapper {
+		display: none;
+	}
+
+	#menu-button {
+		display: inline-block;
+
+	}
+
 	.portfolio-nav {
 		margin-top: 20px;
 		float: left;
@@ -117,15 +127,6 @@
 
 	.header-wrapper  {
 		height: 400px
-	}
-
-	.header-wrapper .nav-wrapper {
-		display: none;
-	}
-
-	#menu-button {
-		display: inline-block;
-
 	}
 
 	.header {
