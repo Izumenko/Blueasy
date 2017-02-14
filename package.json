@@ -1,0 +1,16 @@
+{
+  "name": "blueasy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "markup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izumenko Alexandr",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+  }
+}
