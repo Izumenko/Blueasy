@@ -22,14 +22,14 @@ a:hover {
 
 h2 {
 	font-size: 42px;
-	font-family: Segoe UI;
+	font-family: Segoe UI, sans-serif;
 	font-weight: lighter;
 	color: white;
 }
 
 h1 {
 	font-size: 30px;
-	font-family: Segoe UI;
+	font-family: Segoe UI, sans-serif;
 	font-weight: bold;
 	color: white;
 }
@@ -42,7 +42,7 @@ h3 {
 }
 
 h4 {
-	font-family: Segoe Semibold, sans-serif;
+	
 	font-size: 24px;
 	text-transform: uppercase;
 }
@@ -85,7 +85,7 @@ h4 {
 	height: 35px;
 	line-height: 31px;
 	display: inline-block;
-	font-family: Segoe UI;
+	font-family: Segoe Semibold, sans-serif;
 	font-size: 14px;
 	font-weight: bold;
 	color: white;
